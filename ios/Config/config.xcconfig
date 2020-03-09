@@ -1,6 +1,6 @@
-PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+PRODUCT_BUNDLE_IDENTIFIER = com.conocophillips.fieldtools
 
 BUNDLE_DISPLAY_NAME = SSOTest
-BUNDLE_IDENTIFIER = com.mendix.nativetemplate
+BUNDLE_IDENTIFIER = com.conocophillips.fieldtools
 
 RUNTIME_URL = http:\/\/localhost:8080
