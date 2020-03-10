@@ -1,6 +1,6 @@
-PRODUCT_BUNDLE_IDENTIFIER = com.conocophillips.fieldtools
+PRODUCT_BUNDLE_IDENTIFIER = com.conocophillips.SSOTest
 
 BUNDLE_DISPLAY_NAME = SSOTest
-BUNDLE_IDENTIFIER = com.conocophillips.fieldtools
+BUNDLE_IDENTIFIER = com.conocophillips.SSOTest
 
 RUNTIME_URL = http:\/\/localhost:8080
