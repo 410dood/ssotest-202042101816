@@ -3,4 +3,4 @@ PRODUCT_BUNDLE_IDENTIFIER = com.conocophillips.fieldtools
 BUNDLE_DISPLAY_NAME = SSOTest
 BUNDLE_IDENTIFIER = com.conocophillips.fieldtools
 
-RUNTIME_URL = http:\/\/localhost:8080
+RUNTIME_URL = https:\/\/fieldtools100-accp.mendixcloud.com
