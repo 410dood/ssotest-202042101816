@@ -9,7 +9,7 @@
       <string>com.conocophillips.field-tools</string>
       <key>CFBundleURLSchemes</key>
       <array>
-        <string>field-tools</string>
+        <string>SSOTest</string>
       </array>
     </dict>
   </array>
