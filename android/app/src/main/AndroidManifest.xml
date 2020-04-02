@@ -44,7 +44,7 @@
     <action android:name="android.intent.action.VIEW" />
     <category android:name="android.intent.category.DEFAULT" />
     <category android:name="android.intent.category.BROWSABLE" />
-    <data android:scheme="field-tools" android:host="com.conocophillips.field-tools" android:pathPrefix="" />
+    <data android:scheme="SSOTest" android:host="com.conocophillips.field-tools" android:pathPrefix="" />
 </intent-filter>
       </activity>
       <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
